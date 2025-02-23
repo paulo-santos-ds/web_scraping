@@ -20,6 +20,7 @@ Este projeto realiza **Web Scraping** no site do **IBGE** para coletar e process
 │-- README.md              # Documentação do projeto
 ```
 
+
 ## 🚀 Como Executar
 ### 1️⃣ Clone o repositório:
 ```bash
