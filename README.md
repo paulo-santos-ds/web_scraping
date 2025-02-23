@@ -10,6 +10,7 @@ Este projeto realiza **Web Scraping** no site do **IBGE** para coletar e process
 - **Pandas** - Para manipulação e análise de dados
 - **Jupyter Notebook** (opcional) - Para testes e desenvolvimento iterativo
 
+
 ## 📂 Estrutura do Projeto
 ```
 /webscraping_ibge/
